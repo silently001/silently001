@@ -37,23 +37,6 @@ Estou sempre em busca de novos conhecimentos e tecnologias inovadoras. Atualment
 
 ---
 
-<!-- Projetos  -->
-
-### Projeto em Destaque
-
-- **Clorie Spectrum:**
-Calorie Spectrum é um protótipo de site cujo objetivo principal é ajudar as pessoas a encontrarem as calorias de um alimento. O site também fornece informações sobre como reciclar restos de alimentos na composteira, além de oferecer dicas sobre como perder calorias de forma fácil e eficiente, e fornecer receitas saudáveis e práticas. No entanto, o foco está na maneira de pesquisar um alimento, que é feita através da cam: o usuário mostra o alimento e é encaminhado para a página correspondente.
-
-### Objetivos 
-
-- **Desenvolvimento :** Emprego de diversas linguagens para aprimorar a experiência do usuário, como o Python, utilizado para a captura de imagens através da câmera.
-
-- **Marketing:** Adicionalmente, este projeto serve como uma oportunidade para aprender e aplicar conceitos de marketing, visando atrair e engajar usuários com conteúdo relevante e valioso.
-
-- **Trabalho em Equipe:** Integração de conhecimentos e divisão eficiente das tarefas do projeto, garantindo que não ocorram atrasos ou problemas de comunicação.
-
----
-
 <!-- Formações -->
 
 ## 🎓 Educação
