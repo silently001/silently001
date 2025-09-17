@@ -1,7 +1,8 @@
 
 <!-- Banner usado -->
 
-<img width="1000" height="350" src="https://media.discordapp.net/attachments/1249946367632347207/1417172107967729716/download.gif?ex=68c983e0&is=68c83260&hm=e2cae01abb5b57241f1dc3af2e02c0a65663a5caf37130d586239758bad728ff&=&width=1600&height=700"/>
+<img width="1000" height="350" src="https://cdn.discordapp.com/attachments/1249946367632347207/1417711544543871046/negresco.png?ex=68cb7a44&is=68ca28c4&hm=eb15dfabbd88ed97c06eb746ad891e3f9e6ed2678a15fa13b058965e8f766459"/>
+
 
 <!-- Apresentação -->
 
